@@ -1,0 +1,14 @@
+langchain
+flask
+python-dotenv
+chromadb
+GitPython
+langchain_community
+langchain-text-splitters
+sentence-transformers
+google-genai
+langchain_experimental
+ipykernel
+langchain-google-genai
+langchain_chroma
+-e .
